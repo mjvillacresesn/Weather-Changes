@@ -16,4 +16,4 @@
 
 ------
 * Whats the weather like? -[ Requirements ](https://github.com/mjvillacresesn/Weather-Changes/blob/master/WeatherPy/README.md)
-* Jupyter Notebook - [ Code ](https://github.com/mjvillacresesn/Weather-Changes/blob/master/WeatherPy/WeatherPy_starter.ipynb)
+* Jupyter Notebook - [ Code ](https://github.com/mjvillacresesn/Weather-Changes/blob/master/WeatherPy/WeatherChanges.ipynb)
