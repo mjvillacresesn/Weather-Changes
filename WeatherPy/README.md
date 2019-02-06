@@ -26,3 +26,7 @@ Your final notebook must:
 * Include a print log of each city as it's being processed with the city number and city name.
 * Save both a CSV of all data retrieved and png images for each scatter plot.
 
+------ 
+
+* Jupyter Notebook - [ Code ](https://github.com/mjvillacresesn/Weather-Changes/blob/master/WeatherPy/WeatherPy_starter.ipynb)
+* Final Analysis - [ MD File ](https://github.com/mjvillacresesn/Weather-Changes/blob/master/WeatherPy/Weather-Analysis.md)
