@@ -1,4 +1,4 @@
-# Weather Changes Project
+# Project: Weather Changes
 
 ## Analyzed correlation between weather and cities’ latitude and longitude with respect to the equator:
 
