@@ -12,3 +12,8 @@
 
 ## City Latitude vs. Wind Speed (mph):
 * There no correlation between Wind Speed(%) and City Latitude. One observation we can draw is most of the Wind Speed(%) tends to concentrate between 0-8 mph, we can also note that the highest Wind Speed(%) happens at Cities in the top northern hemisphere.
+
+
+------
+* Whats the weather like? -[ Requirements ](https://github.com/mjvillacresesn/Weather-Changes/blob/master/WeatherPy/README.md)
+* Jupyter Notebook - [ Code ](https://github.com/mjvillacresesn/Weather-Changes/blob/master/WeatherPy/WeatherPy_starter.ipynb)
