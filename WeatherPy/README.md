@@ -28,5 +28,5 @@ Your final notebook must:
 
 ------ 
 
-* Jupyter Notebook - [ Code ](https://github.com/mjvillacresesn/Weather-Changes/blob/master/WeatherPy/WeatherPy_starter.ipynb)
+* Jupyter Notebook - [ Code ](https://github.com/mjvillacresesn/Weather-Changes/blob/master/WeatherPy/WeatherChanges.ipynb)
 * Final Analysis - [ MD File ](https://github.com/mjvillacresesn/Weather-Changes/blob/master/WeatherPy/Weather-Analysis.md)
